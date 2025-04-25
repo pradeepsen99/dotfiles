@@ -9,3 +9,6 @@ biopython/
 # Zed ignores
 zed/embeddings/
 zed/.tmpuUsDT0
+
+# Iterm ignores
+AppSupport/
