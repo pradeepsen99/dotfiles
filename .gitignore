@@ -1,2 +1,11 @@
 # Irrevelant files
 **/.DS_Store
+
+# Ignore system specific installs
+yarn/
+Autodesk/
+biopython/
+
+# Zed ignores
+zed/embeddings/
+zed/.tmpuUsDT0
